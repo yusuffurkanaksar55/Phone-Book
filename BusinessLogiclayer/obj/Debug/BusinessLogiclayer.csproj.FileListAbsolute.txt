@@ -1,0 +1,11 @@
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\bin\Debug\BusinessLogiclayer.dll
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\bin\Debug\BusinessLogiclayer.pdb
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\bin\Debug\Entities.dll
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\bin\Debug\Entities.pdb
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\obj\Debug\BusinessLogiclayer.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\obj\Debug\BusinessLogiclayer.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\obj\Debug\BusinessLogiclayer.csproj.CopyComplete
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\obj\Debug\BusinessLogiclayer.dll
+C:\Users\W10\Desktop\Ado.Net\Adonet\BusinessLogiclayer\obj\Debug\BusinessLogiclayer.pdb
